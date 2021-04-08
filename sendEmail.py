@@ -8,8 +8,8 @@ def send_to_me(message, title):
     password = 'tlsBookDev'
     sender = 'tlsbookingdev@gmail.com'
     
-    # TODO !! INSERT YOUR EMAIL 
-    me = ['something at gmail.com']
+    # TODO !! INSERT YOUR EMAIL(S)
+    me = ['something at gmail.com', 'something else @ gmail.com']
     # Create a secure SSL context
     context = ssl.create_default_context()
 
