@@ -1,0 +1,1466 @@
+1615649673513	geckodriver	INFO	Listening on 127.0.0.1:59405
+1615649673521	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "user-data-dir=/home/hhussen/self-learn/tls-book" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9vbbSl"
+*** You are running in headless mode.
+console.error: Region.jsm: "Failed to fetch region" (new TypeError("NetworkError when attempting to fetch resource.", "resource://gre/modules/Prompter.jsm", 1229))
+1615649677887	Marionette	INFO	Listening on port 39797
+1615649677937	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615649697766	geckodriver	INFO	Listening on 127.0.0.1:44059
+1615649697773	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "user-data-dir=/home/hhussen/self-learn/tls-book" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSlcx3i"
+*** You are running in headless mode.
+console.error: Region.jsm: "Failed to fetch region" (new TypeError("NetworkError when attempting to fetch resource.", "resource://gre/modules/Prompter.jsm", 1229))
+1615649702227	Marionette	INFO	Listening on port 43665
+1615649702391	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615649993202	geckodriver	INFO	Listening on 127.0.0.1:57869
+1615649993209	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "user-data-dir=/home/hhussen/self-learn/tls-book" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileavly0w"
+*** You are running in headless mode.
+1615649997271	Marionette	INFO	Listening on port 35775
+1615649997345	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615650319350	geckodriver	INFO	Listening on 127.0.0.1:42151
+1615650319357	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "user-data-dir=/home/hhussen/self-learn/tls-book" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQ2IT6r"
+*** You are running in headless mode.
+1615650323049	Marionette	INFO	Listening on port 35345
+1615650323140	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615650557959	geckodriver	INFO	Listening on 127.0.0.1:59901
+1615650557966	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "user-data-dir=/home/hhussen/self-learn/tls-book" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezni9X9"
+*** You are running in headless mode.
+1615650562394	Marionette	INFO	Listening on port 39969
+1615650562727	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615650565547	Marionette	INFO	Stopped listening on port 39969
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615651086773	geckodriver	INFO	Listening on 127.0.0.1:39815
+1615651086780	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "user-data-dir=/home/hhussen/self-learn/tls-book" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0Ik5wk"
+*** You are running in headless mode.
+1615651090177	Marionette	INFO	Listening on port 36855
+1615651090253	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615651123136	geckodriver	INFO	Listening on 127.0.0.1:46603
+1615651123143	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "user-data-dir=/home/hhussen/self-learn/tls-book" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebmdbcq"
+*** You are running in headless mode.
+1615651127196	Marionette	INFO	Listening on port 39089
+1615651127284	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615651132119	Marionette	INFO	Stopped listening on port 39089
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615651223645	geckodriver	INFO	Listening on 127.0.0.1:45713
+1615651223652	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "user-data-dir=/home/hhussen/self-learn/tls-book" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileseTxek"
+*** You are running in headless mode.
+1615651227010	Marionette	INFO	Listening on port 33755
+1615651227160	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615651232211	Marionette	INFO	Stopped listening on port 33755
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615651347672	geckodriver	INFO	Listening on 127.0.0.1:57333
+1615651347679	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "user-data-dir=/home/hhussen/self-learn/tls-book" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3Q444z"
+*** You are running in headless mode.
+1615651353071	Marionette	INFO	Listening on port 38609
+1615651353301	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615651361777	Marionette	INFO	Stopped listening on port 38609
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615651735774	geckodriver	INFO	Listening on 127.0.0.1:50771
+1615651735781	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "user-data-dir=/home/hhussen/self-learn/tls-book" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileu5x79C"
+*** You are running in headless mode.
+1615651739249	Marionette	INFO	Listening on port 45519
+1615651739320	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615651741792	Marionette	INFO	Stopped listening on port 45519
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615651794270	geckodriver	INFO	Listening on 127.0.0.1:43563
+1615651794278	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "user-data-dir=/home/hhussen/self-learn/tls-book" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileioWnnt"
+*** You are running in headless mode.
+1615651797561	Marionette	INFO	Listening on port 39799
+1615651797629	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615651803073	Marionette	INFO	Stopped listening on port 39799
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5F0001,name=PIdleScheduler::Msg_IdleTime) Channel error: cannot send/recv
+
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615651830925	geckodriver	INFO	Listening on 127.0.0.1:35329
+1615651830931	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "user-data-dir=/home/hhussen/self-learn/tls-book" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejR0jUk"
+*** You are running in headless mode.
+1615651834205	Marionette	INFO	Listening on port 46617
+1615651834317	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615651838725	Marionette	INFO	Stopped listening on port 46617
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615651873538	geckodriver	INFO	Listening on 127.0.0.1:40889
+1615651873545	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "user-data-dir=/home/hhussen/self-learn/tls-book" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWcQKbm"
+*** You are running in headless mode.
+1615651876959	Marionette	INFO	Listening on port 35785
+1615651877255	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615651881138	Marionette	INFO	Stopped listening on port 35785
+JavaScript error: https://de-legalization.tlscontact.com/assets/js/vendor/jquery.min.js?date=202103090117, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615651909861	geckodriver	INFO	Listening on 127.0.0.1:35005
+1615651909868	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "user-data-dir=/home/hhussen/self-learn/tls-book" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaQlfGe"
+*** You are running in headless mode.
+1615651913366	Marionette	INFO	Listening on port 43941
+1615651913463	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615651917267	Marionette	INFO	Stopped listening on port 43941
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615651960461	geckodriver	INFO	Listening on 127.0.0.1:40765
+1615651960469	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWirtMG"
+*** You are running in headless mode.
+1615651963390	Marionette	INFO	Listening on port 34737
+1615651963453	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615651967530	Marionette	INFO	Stopped listening on port 34737
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Exiting due to channel error.
+1615651991651	geckodriver	INFO	Listening on 127.0.0.1:42605
+1615651991658	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0lD8ZK"
+*** You are running in headless mode.
+1615651994379	Marionette	INFO	Listening on port 46281
+1615651994560	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615651998830	Marionette	INFO	Stopped listening on port 46281
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615655426830	geckodriver	INFO	Listening on 127.0.0.1:46751
+1615655426850	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVN5A6v"
+*** You are running in headless mode.
+console.error: Region.jsm: "Failed to fetch region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+1615655430598	Marionette	INFO	Listening on port 42059
+1615655430701	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615655448984	geckodriver	INFO	Listening on 127.0.0.1:34935
+1615655449008	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZOfr9C"
+*** You are running in headless mode.
+1615655453989	Marionette	INFO	Listening on port 38827
+1615655454027	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615655458223	Marionette	INFO	Stopped listening on port 38827
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615655713365	geckodriver	INFO	Listening on 127.0.0.1:48107
+1615655713372	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5wB6Hi"
+*** You are running in headless mode.
+1615655716385	Marionette	INFO	Listening on port 32853
+1615655716577	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615655723032	Marionette	INFO	Stopped listening on port 32853
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615656983481	geckodriver	INFO	Listening on 127.0.0.1:40233
+1615656983489	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHnGkuq"
+*** You are running in headless mode.
+1615656987259	Marionette	INFO	Listening on port 44391
+1615656987303	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615657050104	geckodriver	INFO	Listening on 127.0.0.1:60377
+1615657050110	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegIr0td"
+*** You are running in headless mode.
+1615657053992	Marionette	INFO	Listening on port 39957
+1615657054022	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615657150574	geckodriver	INFO	Listening on 127.0.0.1:59535
+1615657150581	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJsQ1BZ"
+*** You are running in headless mode.
+1615657154153	Marionette	INFO	Listening on port 32803
+1615657154189	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615657161328	Marionette	INFO	Stopped listening on port 32803
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615657403975	geckodriver	INFO	Listening on 127.0.0.1:34195
+1615657403982	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0f6G3S"
+*** You are running in headless mode.
+1615657409246	Marionette	INFO	Listening on port 45421
+1615657409398	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615657416941	Marionette	INFO	Stopped listening on port 45421
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: uncaught exception: Timeout
+1615661315215	geckodriver	INFO	Listening on 127.0.0.1:54759
+1615661315222	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMPnT0U"
+*** You are running in headless mode.
+1615661318846	Marionette	INFO	Listening on port 38573
+1615661318891	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615661324796	Marionette	INFO	Stopped listening on port 38573
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615661428791	geckodriver	INFO	Listening on 127.0.0.1:43631
+1615661428798	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefoq5q3"
+*** You are running in headless mode.
+1615661431920	Marionette	INFO	Listening on port 37937
+1615661431971	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615661437694	Marionette	INFO	Stopped listening on port 37937
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615662560271	geckodriver	INFO	Listening on 127.0.0.1:55527
+1615662560279	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileELeawG"
+*** You are running in headless mode.
+1615662564355	Marionette	INFO	Listening on port 39481
+1615662564684	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615662573579	Marionette	INFO	Stopped listening on port 39481
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615663018690	geckodriver	INFO	Listening on 127.0.0.1:45017
+1615663018698	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexMF2X7"
+*** You are running in headless mode.
+1615663021847	Marionette	INFO	Listening on port 37639
+1615663021966	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615663088395	geckodriver	INFO	Listening on 127.0.0.1:55379
+1615663088402	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledOeVX0"
+*** You are running in headless mode.
+console.error: Region.jsm: "Failed to fetch region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+1615663092161	Marionette	INFO	Listening on port 46459
+1615663092211	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615663150558	geckodriver	INFO	Listening on 127.0.0.1:38321
+1615663150565	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePm0S1Z"
+*** You are running in headless mode.
+1615663154853	Marionette	INFO	Listening on port 37015
+1615663154949	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615663170697	Marionette	INFO	Stopped listening on port 37015
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615664381402	geckodriver	INFO	Listening on 127.0.0.1:57275
+1615664381409	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9gAtAG"
+*** You are running in headless mode.
+1615664384245	Marionette	INFO	Listening on port 38677
+1615664384753	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615664448354	geckodriver	INFO	Listening on 127.0.0.1:50597
+1615664448385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileehLQ3j"
+*** You are running in headless mode.
+console.error: Region.jsm: "Failed to fetch region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+1615664451682	Marionette	INFO	Listening on port 37771
+1615664451746	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615664492389	geckodriver	INFO	Listening on 127.0.0.1:34917
+1615664492396	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevPvwo4"
+*** You are running in headless mode.
+1615664495617	Marionette	INFO	Listening on port 45911
+1615664495762	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615664501379	Marionette	INFO	Stopped listening on port 45911
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615664529894	geckodriver	INFO	Listening on 127.0.0.1:47031
+1615664529920	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOZMPtz"
+*** You are running in headless mode.
+1615664536458	Marionette	INFO	Listening on port 38433
+1615664536512	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615664542081	Marionette	INFO	Stopped listening on port 38433
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615664631392	geckodriver	INFO	Listening on 127.0.0.1:35957
+1615664631409	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileD3KwHT"
+*** You are running in headless mode.
+1615664634453	Marionette	INFO	Listening on port 34035
+1615664634651	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615664640649	Marionette	INFO	Stopped listening on port 34035
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615664814977	geckodriver	INFO	Listening on 127.0.0.1:49919
+1615664814987	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIcZIFa"
+*** You are running in headless mode.
+1615664817835	Marionette	INFO	Listening on port 35235
+1615664817910	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615664823939	Marionette	INFO	Stopped listening on port 35235
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615665464108	geckodriver	INFO	Listening on 127.0.0.1:36291
+1615665464115	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiqBbBx"
+*** You are running in headless mode.
+1615665468568	Marionette	INFO	Listening on port 34833
+1615665468842	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615665475904	Marionette	INFO	Stopped listening on port 34833
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615665618356	geckodriver	INFO	Listening on 127.0.0.1:43349
+1615665618363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXqPGo5"
+*** You are running in headless mode.
+1615665622398	Marionette	INFO	Listening on port 39407
+1615665622460	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615665628349	Marionette	INFO	Stopped listening on port 39407
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615665738075	geckodriver	INFO	Listening on 127.0.0.1:34551
+1615665738089	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilego2tGy"
+*** You are running in headless mode.
+1615665741693	Marionette	INFO	Listening on port 41231
+1615665741775	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615665748281	Marionette	INFO	Stopped listening on port 41231
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615665908307	geckodriver	INFO	Listening on 127.0.0.1:37457
+1615665908314	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilet4j3M1"
+*** You are running in headless mode.
+1615665911155	Marionette	INFO	Listening on port 36319
+1615665911313	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615665917223	Marionette	INFO	Stopped listening on port 36319
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615665978697	geckodriver	INFO	Listening on 127.0.0.1:57693
+1615665978704	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLB97xy"
+*** You are running in headless mode.
+1615665981613	Marionette	INFO	Listening on port 43785
+1615665981697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615665987623	Marionette	INFO	Stopped listening on port 43785
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615666089820	geckodriver	INFO	Listening on 127.0.0.1:48233
+1615666089828	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefZ9cFN"
+*** You are running in headless mode.
+1615666093007	Marionette	INFO	Listening on port 32893
+1615666093081	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615666098712	Marionette	INFO	Stopped listening on port 32893
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615666163024	geckodriver	INFO	Listening on 127.0.0.1:46857
+1615666163055	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0GJbY6"
+*** You are running in headless mode.
+1615666165930	Marionette	INFO	Listening on port 33747
+1615666166034	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615666195408	geckodriver	INFO	Listening on 127.0.0.1:34339
+1615666195415	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilew0c5XB"
+*** You are running in headless mode.
+1615666198620	Marionette	INFO	Listening on port 34163
+1615666198670	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615666205565	Marionette	INFO	Stopped listening on port 34163
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615666289975	geckodriver	INFO	Listening on 127.0.0.1:51425
+1615666289983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFd9TnL"
+*** You are running in headless mode.
+1615666292990	Marionette	INFO	Listening on port 33449
+1615666293139	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615666298796	Marionette	INFO	Stopped listening on port 33449
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615666344610	geckodriver	INFO	Listening on 127.0.0.1:33055
+1615666344618	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6G3qf8"
+*** You are running in headless mode.
+1615666347343	Marionette	INFO	Listening on port 35627
+1615666347388	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615666353229	Marionette	INFO	Stopped listening on port 35627
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615668090414	geckodriver	INFO	Listening on 127.0.0.1:36819
+1615668090421	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHVCQL9"
+*** You are running in headless mode.
+1615668093732	Marionette	INFO	Listening on port 38983
+1615668093825	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615668189622	geckodriver	INFO	Listening on 127.0.0.1:50287
+1615668189628	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT1KXM1"
+*** You are running in headless mode.
+1615668193185	Marionette	INFO	Listening on port 46779
+1615668193230	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615668831446	geckodriver	INFO	Listening on 127.0.0.1:40905
+1615668831455	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefWNm9n"
+*** You are running in headless mode.
+1615668835900	Marionette	INFO	Listening on port 34857
+1615668836063	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615669365941	geckodriver	INFO	Listening on 127.0.0.1:51623
+1615669365949	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebp6h6i"
+*** You are running in headless mode.
+1615669371428	Marionette	INFO	Listening on port 33145
+1615669371480	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615669418372	geckodriver	INFO	Listening on 127.0.0.1:37325
+1615669418379	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileegxKtC"
+*** You are running in headless mode.
+1615669422915	Marionette	INFO	Listening on port 34621
+1615669423029	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615669510077	geckodriver	INFO	Listening on 127.0.0.1:37259
+1615669510084	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekSSvw6"
+*** You are running in headless mode.
+1615669514633	Marionette	INFO	Listening on port 37679
+1615669514801	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615669823394	geckodriver	INFO	Listening on 127.0.0.1:37173
+1615669823405	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2RVraK"
+*** You are running in headless mode.
+1615669826936	Marionette	INFO	Listening on port 33615
+1615669827022	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615670133430	geckodriver	INFO	Listening on 127.0.0.1:49675
+1615670133448	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCE0Slx"
+*** You are running in headless mode.
+1615670136731	Marionette	INFO	Listening on port 40963
+1615670136847	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615670443760	geckodriver	INFO	Listening on 127.0.0.1:53645
+1615670443773	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4HTOF4"
+*** You are running in headless mode.
+1615670447518	Marionette	INFO	Listening on port 39407
+1615670447594	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615670753547	geckodriver	INFO	Listening on 127.0.0.1:39601
+1615670753572	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJq1bhx"
+*** You are running in headless mode.
+1615670757382	Marionette	INFO	Listening on port 38297
+1615670757467	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615671063752	geckodriver	INFO	Listening on 127.0.0.1:60879
+1615671063758	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTbs36l"
+*** You are running in headless mode.
+1615671067621	Marionette	INFO	Listening on port 34489
+1615671067662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615671374161	geckodriver	INFO	Listening on 127.0.0.1:48971
+1615671374167	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC5IOZp"
+*** You are running in headless mode.
+1615671378340	Marionette	INFO	Listening on port 46097
+1615671378375	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615671685164	geckodriver	INFO	Listening on 127.0.0.1:51663
+1615671685177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejLaQPH"
+*** You are running in headless mode.
+1615671689067	Marionette	INFO	Listening on port 35191
+1615671689109	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615671995563	geckodriver	INFO	Listening on 127.0.0.1:57969
+1615671995580	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileni2XIo"
+*** You are running in headless mode.
+1615671998787	Marionette	INFO	Listening on port 41605
+1615672000022	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615672245238	geckodriver	INFO	Listening on 127.0.0.1:42249
+1615672245245	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNjHWkq"
+*** You are running in headless mode.
+1615672248525	Marionette	INFO	Listening on port 46831
+1615672248663	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615672555413	geckodriver	INFO	Listening on 127.0.0.1:55881
+1615672555418	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileM5e0eA"
+*** You are running in headless mode.
+1615672558852	Marionette	INFO	Listening on port 39365
+1615672558951	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615672786529	geckodriver	INFO	Listening on 127.0.0.1:60969
+1615672786536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFGQdmy"
+*** You are running in headless mode.
+1615672790841	Marionette	INFO	Listening on port 41497
+1615672790930	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615673098607	geckodriver	INFO	Listening on 127.0.0.1:33847
+1615673098614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXXpLQ2"
+*** You are running in headless mode.
+1615673101679	Marionette	INFO	Listening on port 37641
+1615673101788	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615673407470	geckodriver	INFO	Listening on 127.0.0.1:55895
+1615673407483	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJEN0mB"
+*** You are running in headless mode.
+1615673410684	Marionette	INFO	Listening on port 35479
+1615673410774	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615673716343	geckodriver	INFO	Listening on 127.0.0.1:50125
+1615673716348	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileciP4JC"
+*** You are running in headless mode.
+1615673719019	Marionette	INFO	Listening on port 45103
+1615673719145	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615674025095	geckodriver	INFO	Listening on 127.0.0.1:57011
+1615674025108	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJnYZDW"
+*** You are running in headless mode.
+1615674028520	Marionette	INFO	Listening on port 46197
+1615674028567	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615674335316	geckodriver	INFO	Listening on 127.0.0.1:34505
+1615674335321	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoUjzdE"
+*** You are running in headless mode.
+1615674338570	Marionette	INFO	Listening on port 40173
+1615674338695	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615674644397	geckodriver	INFO	Listening on 127.0.0.1:41325
+1615674644410	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileieJiIW"
+*** You are running in headless mode.
+1615674647530	Marionette	INFO	Listening on port 44347
+1615674647617	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615674998840	geckodriver	INFO	Listening on 127.0.0.1:48883
+1615674998847	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoCs2jt"
+*** You are running in headless mode.
+1615675001928	Marionette	INFO	Listening on port 32905
+1615675002036	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615675307640	geckodriver	INFO	Listening on 127.0.0.1:47407
+1615675307655	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYskKdx"
+*** You are running in headless mode.
+1615675310347	Marionette	INFO	Listening on port 32923
+1615675310387	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615675616381	geckodriver	INFO	Listening on 127.0.0.1:53269
+1615675616387	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2CnDIM"
+*** You are running in headless mode.
+1615675618991	Marionette	INFO	Listening on port 43805
+1615675619017	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615675925048	geckodriver	INFO	Listening on 127.0.0.1:56395
+1615675925065	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilee3ewKo"
+*** You are running in headless mode.
+1615675927784	Marionette	INFO	Listening on port 45083
+1615675927888	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615676233703	geckodriver	INFO	Listening on 127.0.0.1:58497
+1615676233716	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI21tq3"
+*** You are running in headless mode.
+1615676236345	Marionette	INFO	Listening on port 37527
+1615676236473	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615676542461	geckodriver	INFO	Listening on 127.0.0.1:33579
+1615676542475	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE5dJMN"
+*** You are running in headless mode.
+1615676545542	Marionette	INFO	Listening on port 41529
+1615676545586	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615676851296	geckodriver	INFO	Listening on 127.0.0.1:52765
+1615676851311	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFAg4cg"
+*** You are running in headless mode.
+1615676854105	Marionette	INFO	Listening on port 40651
+1615676854198	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615677159810	geckodriver	INFO	Listening on 127.0.0.1:44393
+1615677159823	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCUb8Ks"
+*** You are running in headless mode.
+1615677167093	Marionette	INFO	Listening on port 33499
+1615677167222	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615677476311	geckodriver	INFO	Listening on 127.0.0.1:37747
+1615677476316	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezrR1im"
+*** You are running in headless mode.
+1615677479466	Marionette	INFO	Listening on port 40867
+1615677479522	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615677922283	geckodriver	INFO	Listening on 127.0.0.1:42291
+1615677922289	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevblcT8"
+*** You are running in headless mode.
+1615677926099	Marionette	INFO	Listening on port 43593
+1615677926151	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615677993193	geckodriver	INFO	Listening on 127.0.0.1:53309
+1615677993200	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemtJdAH"
+*** You are running in headless mode.
+1615677995978	Marionette	INFO	Listening on port 37829
+1615677996053	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615678302062	geckodriver	INFO	Listening on 127.0.0.1:51091
+1615678302076	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSAUytw"
+*** You are running in headless mode.
+1615678304746	Marionette	INFO	Listening on port 37183
+1615678304805	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615678610772	geckodriver	INFO	Listening on 127.0.0.1:42579
+1615678610777	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexHKYAJ"
+*** You are running in headless mode.
+1615678613731	Marionette	INFO	Listening on port 38117
+1615678613837	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615678919661	geckodriver	INFO	Listening on 127.0.0.1:41789
+1615678919666	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVvfR1e"
+*** You are running in headless mode.
+1615678922773	Marionette	INFO	Listening on port 40157
+1615678922845	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615679228495	geckodriver	INFO	Listening on 127.0.0.1:36653
+1615679228500	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXA8ZMU"
+*** You are running in headless mode.
+1615679231707	Marionette	INFO	Listening on port 34631
+1615679231757	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615679537566	geckodriver	INFO	Listening on 127.0.0.1:45545
+1615679537573	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiD3YvT"
+*** You are running in headless mode.
+1615679540278	Marionette	INFO	Listening on port 38643
+1615679540314	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615679846425	geckodriver	INFO	Listening on 127.0.0.1:33693
+1615679846452	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileybrI2Q"
+*** You are running in headless mode.
+1615679849546	Marionette	INFO	Listening on port 36483
+1615679849675	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615680155315	geckodriver	INFO	Listening on 127.0.0.1:44673
+1615680155320	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezw9y3y"
+*** You are running in headless mode.
+1615680158301	Marionette	INFO	Listening on port 42237
+1615680158360	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615680464157	geckodriver	INFO	Listening on 127.0.0.1:55793
+1615680464170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAySUZq"
+*** You are running in headless mode.
+1615680467463	Marionette	INFO	Listening on port 45875
+1615680467542	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615680773345	geckodriver	INFO	Listening on 127.0.0.1:48017
+1615680773371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZIV3Fw"
+*** You are running in headless mode.
+1615680776294	Marionette	INFO	Listening on port 45845
+1615680776470	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615681082591	geckodriver	INFO	Listening on 127.0.0.1:50647
+1615681082597	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8HTTaP"
+*** You are running in headless mode.
+1615681085883	Marionette	INFO	Listening on port 35313
+1615681086031	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615681391758	geckodriver	INFO	Listening on 127.0.0.1:56379
+1615681391765	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDM283G"
+*** You are running in headless mode.
+1615681394972	Marionette	INFO	Listening on port 45415
+1615681395056	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615681701079	geckodriver	INFO	Listening on 127.0.0.1:35139
+1615681701086	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledgZTjW"
+*** You are running in headless mode.
+1615681704430	Marionette	INFO	Listening on port 45343
+1615681704468	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615682010591	geckodriver	INFO	Listening on 127.0.0.1:32977
+1615682010603	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegMM5DH"
+*** You are running in headless mode.
+1615682013525	Marionette	INFO	Listening on port 38773
+1615682013684	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615682319776	geckodriver	INFO	Listening on 127.0.0.1:60657
+1615682319790	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQ8XAuP"
+*** You are running in headless mode.
+1615682322684	Marionette	INFO	Listening on port 35087
+1615682322852	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615682628784	geckodriver	INFO	Listening on 127.0.0.1:45753
+1615682628818	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVKyrOt"
+*** You are running in headless mode.
+1615682631658	Marionette	INFO	Listening on port 33503
+1615682631826	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615682937772	geckodriver	INFO	Listening on 127.0.0.1:48815
+1615682937785	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelaNOwx"
+*** You are running in headless mode.
+1615682940650	Marionette	INFO	Listening on port 41801
+1615682940850	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615683246791	geckodriver	INFO	Listening on 127.0.0.1:47215
+1615683246813	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHn03Cm"
+*** You are running in headless mode.
+1615683249630	Marionette	INFO	Listening on port 39065
+1615683249746	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615683556074	geckodriver	INFO	Listening on 127.0.0.1:42753
+1615683556087	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7PKw9j"
+*** You are running in headless mode.
+1615683559082	Marionette	INFO	Listening on port 41657
+1615683559172	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615683865088	geckodriver	INFO	Listening on 127.0.0.1:47055
+1615683865096	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletl9Kf1"
+*** You are running in headless mode.
+1615683868326	Marionette	INFO	Listening on port 40241
+1615683868371	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615684174170	geckodriver	INFO	Listening on 127.0.0.1:43867
+1615684174195	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8gF4xa"
+*** You are running in headless mode.
+1615684177557	Marionette	INFO	Listening on port 32977
+1615684177577	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615684483281	geckodriver	INFO	Listening on 127.0.0.1:54103
+1615684483293	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem8W5YJ"
+*** You are running in headless mode.
+1615684486407	Marionette	INFO	Listening on port 40317
+1615684486464	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615684792200	geckodriver	INFO	Listening on 127.0.0.1:44127
+1615684792206	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0X9GJw"
+*** You are running in headless mode.
+1615684795044	Marionette	INFO	Listening on port 35537
+1615684795225	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615685101341	geckodriver	INFO	Listening on 127.0.0.1:41277
+1615685101357	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLD3uQS"
+*** You are running in headless mode.
+1615685104281	Marionette	INFO	Listening on port 44199
+1615685104415	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615685410493	geckodriver	INFO	Listening on 127.0.0.1:51083
+1615685410507	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile803z8x"
+*** You are running in headless mode.
+1615685413493	Marionette	INFO	Listening on port 45609
+1615685413631	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615685719708	geckodriver	INFO	Listening on 127.0.0.1:54975
+1615685719716	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem8zBBg"
+*** You are running in headless mode.
+1615685723670	Marionette	INFO	Listening on port 44395
+1615685723750	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615686030157	geckodriver	INFO	Listening on 127.0.0.1:59951
+1615686030187	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelvZT4B"
+*** You are running in headless mode.
+1615686034111	Marionette	INFO	Listening on port 38479
+1615686034293	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615686340568	geckodriver	INFO	Listening on 127.0.0.1:50213
+1615686340575	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6tykUc"
+*** You are running in headless mode.
+1615686344890	Marionette	INFO	Listening on port 37657
+1615686344984	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615686650938	geckodriver	INFO	Listening on 127.0.0.1:34165
+1615686650945	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebLcW20"
+*** You are running in headless mode.
+1615686655331	Marionette	INFO	Listening on port 40527
+1615686655468	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615685732200	geckodriver	INFO	Listening on 127.0.0.1:37137
+1615685732206	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefcUJJo"
+*** You are running in headless mode.
+1615685734085	Marionette	INFO	Listening on port 44713
+1615685734145	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615685756600	geckodriver	INFO	Listening on 127.0.0.1:57453
+1615685756606	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGCtW4b"
+*** You are running in headless mode.
+1615685758480	Marionette	INFO	Listening on port 34891
+1615685758553	Marionette	WARN	TLS certificate errors will be ignored for this session
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+1615686070806	geckodriver	INFO	Listening on 127.0.0.1:34679
+1615686070812	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJIA2xH"
+*** You are running in headless mode.
+1615686073250	Marionette	INFO	Listening on port 37577
+1615686073330	Marionette	WARN	TLS certificate errors will be ignored for this session
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+1615686381137	geckodriver	INFO	Listening on 127.0.0.1:58463
+1615686381141	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTJ6dvl"
+*** You are running in headless mode.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+1615686383501	Marionette	INFO	Listening on port 35717
+1615686383551	Marionette	WARN	TLS certificate errors will be ignored for this session
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Exiting due to channel error.
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=823.206) [GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=823.319) [GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615687998026	geckodriver	INFO	Listening on 127.0.0.1:53577
+1615687998118	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile71L7WA"
+*** You are running in headless mode.
+1615688000202	Marionette	INFO	Listening on port 37573
+1615688000298	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615688305576	geckodriver	INFO	Listening on 127.0.0.1:42911
+1615688305580	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileId2o1j"
+*** You are running in headless mode.
+1615688307651	Marionette	INFO	Listening on port 35849
+1615688307737	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615688617076	geckodriver	INFO	Listening on 127.0.0.1:48571
+1615688617080	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0Dh7i5"
+*** You are running in headless mode.
+1615688619446	Marionette	INFO	Listening on port 38279
+1615688619492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615688924593	geckodriver	INFO	Listening on 127.0.0.1:50007
+1615688924597	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMD9VV2"
+*** You are running in headless mode.
+1615688926793	Marionette	INFO	Listening on port 39379
+1615688926823	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615689242322	geckodriver	INFO	Listening on 127.0.0.1:44755
+1615689242326	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKlyiex"
+*** You are running in headless mode.
+1615689244382	Marionette	INFO	Listening on port 36301
+1615689244499	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615689554421	geckodriver	INFO	Listening on 127.0.0.1:52225
+1615689554425	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiwdsRQ"
+*** You are running in headless mode.
+1615689561817	Marionette	INFO	Listening on port 38489
+1615689561910	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615689867689	geckodriver	INFO	Listening on 127.0.0.1:43527
+1615689867693	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLN6Ug4"
+*** You are running in headless mode.
+1615689869554	Marionette	INFO	Listening on port 36771
+1615689869705	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615690175592	geckodriver	INFO	Listening on 127.0.0.1:55875
+1615690175596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXGtQzt"
+*** You are running in headless mode.
+1615690177994	Marionette	INFO	Listening on port 40689
+1615690178008	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615690483109	geckodriver	INFO	Listening on 127.0.0.1:55279
+1615690483113	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEuBypX"
+*** You are running in headless mode.
+1615690485298	Marionette	INFO	Listening on port 38813
+1615690485326	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615690794239	geckodriver	INFO	Listening on 127.0.0.1:59311
+1615690794243	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8ug1US"
+*** You are running in headless mode.
+1615690796635	Marionette	INFO	Listening on port 41625
+1615690796659	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615691107198	geckodriver	INFO	Listening on 127.0.0.1:34243
+1615691107206	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerbuzGx"
+*** You are running in headless mode.
+1615691109299	Marionette	INFO	Listening on port 46443
+1615691109315	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615691414549	geckodriver	INFO	Listening on 127.0.0.1:47819
+1615691414553	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAVdva7"
+*** You are running in headless mode.
+1615691421608	Marionette	INFO	Listening on port 44469
+1615691421675	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615691730948	geckodriver	INFO	Listening on 127.0.0.1:41433
+1615691730952	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0miBZr"
+*** You are running in headless mode.
+1615691732901	Marionette	INFO	Listening on port 39805
+1615691732985	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615692038308	geckodriver	INFO	Listening on 127.0.0.1:51363
+1615692038315	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGab40p"
+*** You are running in headless mode.
+1615692040720	Marionette	INFO	Listening on port 37521
+1615692040729	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615692346536	geckodriver	INFO	Listening on 127.0.0.1:49925
+1615692346540	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUBLBRH"
+*** You are running in headless mode.
+1615692348848	Marionette	INFO	Listening on port 43313
+1615692348857	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615692654119	geckodriver	INFO	Listening on 127.0.0.1:60173
+1615692654123	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5vpnrr"
+*** You are running in headless mode.
+1615692656036	Marionette	INFO	Listening on port 42983
+1615692656133	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615692966838	geckodriver	INFO	Listening on 127.0.0.1:49685
+1615692966842	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBEiBVW"
+*** You are running in headless mode.
+1615692968692	Marionette	INFO	Listening on port 36117
+1615692968770	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615693274823	geckodriver	INFO	Listening on 127.0.0.1:58099
+1615693274827	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP8fWB7"
+*** You are running in headless mode.
+1615693282966	Marionette	INFO	Listening on port 44999
+1615693283055	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615693598926	geckodriver	INFO	Listening on 127.0.0.1:36711
+1615693599212	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAsFPHA"
+*** You are running in headless mode.
+1615693601048	Marionette	INFO	Listening on port 41731
+1615693601122	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615693907067	geckodriver	INFO	Listening on 127.0.0.1:60431
+1615693907072	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileakJA3W"
+*** You are running in headless mode.
+1615693909180	Marionette	INFO	Listening on port 36677
+1615693909280	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615694215763	geckodriver	INFO	Listening on 127.0.0.1:35123
+1615694215816	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileud1CG3"
+*** You are running in headless mode.
+1615694218060	Marionette	INFO	Listening on port 37249
+1615694218125	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615694533523	geckodriver	INFO	Listening on 127.0.0.1:58055
+1615694533528	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekZCdka"
+*** You are running in headless mode.
+1615694541491	Marionette	INFO	Listening on port 45595
+1615694541557	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615694847353	geckodriver	INFO	Listening on 127.0.0.1:51471
+1615694847357	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKLJCO3"
+*** You are running in headless mode.
+1615694852950	Marionette	INFO	Listening on port 43153
+1615694853031	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615695160724	geckodriver	INFO	Listening on 127.0.0.1:36563
+1615695160765	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA9axSC"
+*** You are running in headless mode.
+1615695164836	Marionette	INFO	Listening on port 43191
+1615695165917	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615695474761	geckodriver	INFO	Listening on 127.0.0.1:42319
+1615695474813	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekVvMgc"
+*** You are running in headless mode.
+1615695486549	Marionette	INFO	Listening on port 34851
+1615695486939	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615695798506	geckodriver	INFO	Listening on 127.0.0.1:41641
+1615695799528	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile89Lc00"
+*** You are running in headless mode.
+1615695809593	Marionette	INFO	Listening on port 35211
+1615695809731	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615696125009	geckodriver	INFO	Listening on 127.0.0.1:33081
+1615696125098	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9kLMam"
+*** You are running in headless mode.
+1615696144627	Marionette	INFO	Listening on port 45507
+1615696144847	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615696462193	geckodriver	INFO	Listening on 127.0.0.1:53409
+1615696462304	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRzlJsp"
+*** You are running in headless mode.
+1615696495532	Marionette	INFO	Listening on port 36287
+1615696497015	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615696831654	geckodriver	INFO	Listening on 127.0.0.1:44741
+1615696831777	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileacFFom"
+*** You are running in headless mode.
+1615696848527	Marionette	INFO	Listening on port 35769
+1615696848748	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615697166360	geckodriver	INFO	Listening on 127.0.0.1:59007
+1615697167393	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFRlWIz"
+*** You are running in headless mode.
+1615697180449	Marionette	INFO	Listening on port 45457
+1615697180542	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615697494013	geckodriver	INFO	Listening on 127.0.0.1:59159
+1615697494074	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilek0dcQ4"
+*** You are running in headless mode.
+1615697505521	Marionette	INFO	Listening on port 44789
+1615697505820	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615697815245	geckodriver	INFO	Listening on 127.0.0.1:48883
+1615697816302	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8ZWm9h"
+*** You are running in headless mode.
+1615697832672	Marionette	INFO	Listening on port 38323
+1615697832763	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615698150840	geckodriver	INFO	Listening on 127.0.0.1:48705
+1615698151885	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDEfbBt"
+*** You are running in headless mode.
+1615698172648	Marionette	INFO	Listening on port 41239
+1615698172806	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615698492823	geckodriver	INFO	Listening on 127.0.0.1:33197
+1615698493801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebMK1Hl"
+*** You are running in headless mode.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1615698511843	Marionette	INFO	Listening on port 39329
+1615698511866	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615698822539	geckodriver	INFO	Listening on 127.0.0.1:40577
+1615698823541	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVM6ut2"
+*** You are running in headless mode.
+1615698860002	Marionette	INFO	Listening on port 43833
+1615698860301	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615699173423	geckodriver	INFO	Listening on 127.0.0.1:52201
+1615699174434	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYl0iQ3"
+*** You are running in headless mode.
+1615699208881	Marionette	INFO	Listening on port 41695
+1615699209073	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615699519723	geckodriver	INFO	Listening on 127.0.0.1:52107
+1615699519871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEZDLIW"
+*** You are running in headless mode.
+1615699543243	Marionette	INFO	Listening on port 43607
+1615699543933	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615699867960	geckodriver	INFO	Listening on 127.0.0.1:33691
+1615699869082	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles5SpXF"
+*** You are running in headless mode.
+1615699888268	Marionette	INFO	Listening on port 42223
+1615699888430	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615700204852	geckodriver	INFO	Listening on 127.0.0.1:39339
+1615700205874	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefXgGfg"
+*** You are running in headless mode.
+1615700226160	Marionette	INFO	Listening on port 37217
+1615700226254	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615700540291	geckodriver	INFO	Listening on 127.0.0.1:38011
+1615700541312	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAj9f2U"
+*** You are running in headless mode.
+1615700561526	Marionette	INFO	Listening on port 37117
+1615700561589	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615700876718	geckodriver	INFO	Listening on 127.0.0.1:52951
+1615700877696	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepbMcpY"
+*** You are running in headless mode.
+1615700897779	Marionette	INFO	Listening on port 33447
+1615700897888	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615701210491	geckodriver	INFO	Listening on 127.0.0.1:38193
+1615701211535	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1Gs5jS"
+*** You are running in headless mode.
+1615701227431	Marionette	INFO	Listening on port 34789
+1615701227531	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615701541686	geckodriver	INFO	Listening on 127.0.0.1:38147
+1615701542729	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0U1F4p"
+*** You are running in headless mode.
+1615701557450	Marionette	INFO	Listening on port 33533
+1615701557566	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615701878635	geckodriver	INFO	Listening on 127.0.0.1:53861
+1615701878738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesJeWxt"
+*** You are running in headless mode.
+1615701894822	Marionette	INFO	Listening on port 37673
+1615701895308	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615702209084	geckodriver	INFO	Listening on 127.0.0.1:37173
+1615702210873	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMkQ69b"
+*** You are running in headless mode.
+1615702231393	Marionette	INFO	Listening on port 33669
+1615702231503	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615702545299	geckodriver	INFO	Listening on 127.0.0.1:39069
+1615702546311	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile449iBE"
+*** You are running in headless mode.
+1615702559309	Marionette	INFO	Listening on port 43169
+1615702559571	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615702873672	geckodriver	INFO	Listening on 127.0.0.1:38185
+1615702873772	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTbeeL9"
+*** You are running in headless mode.
+1615702887649	Marionette	INFO	Listening on port 45929
+1615702887772	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615703202343	geckodriver	INFO	Listening on 127.0.0.1:57091
+1615703203366	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4inKt7"
+*** You are running in headless mode.
+1615703221739	Marionette	INFO	Listening on port 34015
+1615703222303	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615703541272	geckodriver	INFO	Listening on 127.0.0.1:42647
+1615703542305	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS5o9GB"
+*** You are running in headless mode.
+1615703561598	Marionette	INFO	Listening on port 44473
+1615703561809	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615703871165	geckodriver	INFO	Listening on 127.0.0.1:36233
+1615703872532	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH15v37"
+*** You are running in headless mode.
+1615703932504	Marionette	INFO	Listening on port 40153
+1615703933269	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615704246544	geckodriver	INFO	Listening on 127.0.0.1:39575
+1615704246629	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledu76yo"
+*** You are running in headless mode.
+1615704272329	Marionette	INFO	Listening on port 43209
+1615704274583	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615704590074	geckodriver	INFO	Listening on 127.0.0.1:35787
+1615704591145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefPMwI8"
+*** You are running in headless mode.
+1615704616510	Marionette	INFO	Listening on port 45895
+1615704616735	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615704969022	geckodriver	INFO	Listening on 127.0.0.1:37325
+1615704969253	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexrdKc9"
+*** You are running in headless mode.
+Exiting due to channel error.
+Exiting due to channel error.
+1615720590805	geckodriver	INFO	Listening on 127.0.0.1:39381
+1615720591048	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilej17van"
+*** You are running in headless mode.
+Exiting due to channel error.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF7,name=<unknown IPC msg name>) Channel error: cannot send/recv
+
+1615721179474	geckodriver	INFO	Listening on 127.0.0.1:55543
+1615721179565	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8DXV6z"
+*** You are running in headless mode.
+1615721181793	Marionette	INFO	Listening on port 44953
+1615721181876	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615721492366	geckodriver	INFO	Listening on 127.0.0.1:60487
+1615721492370	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel4Pkma"
+*** You are running in headless mode.
+1615721494800	Marionette	INFO	Listening on port 44693
+1615721494891	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615721804874	geckodriver	INFO	Listening on 127.0.0.1:51673
+1615721804879	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3J71pN"
+*** You are running in headless mode.
+1615721807058	Marionette	INFO	Listening on port 38251
+1615721807096	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615722112310	geckodriver	INFO	Listening on 127.0.0.1:52299
+1615722112315	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileixW0ec"
+*** You are running in headless mode.
+1615722114649	Marionette	INFO	Listening on port 43777
+1615722114728	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615722419925	geckodriver	INFO	Listening on 127.0.0.1:46005
+1615722419932	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQLWgQh"
+*** You are running in headless mode.
+1615722422369	Marionette	INFO	Listening on port 43379
+1615722422444	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615722727958	geckodriver	INFO	Listening on 127.0.0.1:40303
+1615722727962	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAw3oBO"
+*** You are running in headless mode.
+1615722730342	Marionette	INFO	Listening on port 46663
+1615722730377	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615723035708	geckodriver	INFO	Listening on 127.0.0.1:55493
+1615723035712	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7MvcXH"
+*** You are running in headless mode.
+1615723038044	Marionette	INFO	Listening on port 37263
+1615723038125	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615723346970	geckodriver	INFO	Listening on 127.0.0.1:36749
+1615723346974	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT6qEIS"
+*** You are running in headless mode.
+1615723348751	Marionette	INFO	Listening on port 41941
+1615723348825	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615723654410	geckodriver	INFO	Listening on 127.0.0.1:46155
+1615723654414	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepYrqLT"
+*** You are running in headless mode.
+1615723656667	Marionette	INFO	Listening on port 34083
+1615723656765	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615723967522	geckodriver	INFO	Listening on 127.0.0.1:49117
+1615723967526	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5BveBU"
+*** You are running in headless mode.
+1615723969331	Marionette	INFO	Listening on port 33657
+1615723969339	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615724279493	geckodriver	INFO	Listening on 127.0.0.1:39881
+1615724279498	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUURUwV"
+*** You are running in headless mode.
+1615724281617	Marionette	INFO	Listening on port 42763
+1615724281780	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615724587821	geckodriver	INFO	Listening on 127.0.0.1:35489
+1615724587828	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemrwmqY"
+*** You are running in headless mode.
+1615724589830	Marionette	INFO	Listening on port 36765
+1615724589842	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615724900131	geckodriver	INFO	Listening on 127.0.0.1:58495
+1615724900135	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGBatvM"
+*** You are running in headless mode.
+1615724901957	Marionette	INFO	Listening on port 38617
+1615724902089	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615725207277	geckodriver	INFO	Listening on 127.0.0.1:55953
+1615725207282	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOTIoxe"
+*** You are running in headless mode.
+1615725209436	Marionette	INFO	Listening on port 44039
+1615725209540	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615725514657	geckodriver	INFO	Listening on 127.0.0.1:37031
+1615725514662	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejYkXDm"
+*** You are running in headless mode.
+1615725516991	Marionette	INFO	Listening on port 41881
+1615725517080	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615725822553	geckodriver	INFO	Listening on 127.0.0.1:38547
+1615725822557	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekfyk0A"
+*** You are running in headless mode.
+1615725824699	Marionette	INFO	Listening on port 36313
+1615725824770	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615726130436	geckodriver	INFO	Listening on 127.0.0.1:52483
+1615726130440	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLhhDiM"
+*** You are running in headless mode.
+1615726133284	Marionette	INFO	Listening on port 46645
+1615726133351	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615726443199	geckodriver	INFO	Listening on 127.0.0.1:59297
+1615726443203	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenqaSuL"
+*** You are running in headless mode.
+1615726445241	Marionette	INFO	Listening on port 41411
+1615726445313	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615726751385	geckodriver	INFO	Listening on 127.0.0.1:51113
+1615726751389	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWMqm7J"
+*** You are running in headless mode.
+1615726754080	Marionette	INFO	Listening on port 33665
+1615726754100	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615727061451	geckodriver	INFO	Listening on 127.0.0.1:59865
+1615727061459	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevBRXlT"
+*** You are running in headless mode.
+1615727068744	Marionette	INFO	Listening on port 40535
+1615727068816	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615727375206	geckodriver	INFO	Listening on 127.0.0.1:34581
+1615727375226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6QeCZO"
+*** You are running in headless mode.
+1615727377903	Marionette	INFO	Listening on port 45771
+1615727378011	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615727683510	geckodriver	INFO	Listening on 127.0.0.1:53629
+1615727683515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOzq3Go"
+*** You are running in headless mode.
+1615727687469	Marionette	INFO	Listening on port 38539
+1615727687556	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615727992830	geckodriver	INFO	Listening on 127.0.0.1:58055
+1615727992871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileACOToy"
+*** You are running in headless mode.
+1615727997938	Marionette	INFO	Listening on port 42585
+1615727998006	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615728305962	geckodriver	INFO	Listening on 127.0.0.1:56201
+1615728306039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletNrcbE"
+*** You are running in headless mode.
+1615728315597	Marionette	INFO	Listening on port 39749
+1615728315664	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615728638783	geckodriver	INFO	Listening on 127.0.0.1:35199
+1615728638835	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMIJfxp"
+*** You are running in headless mode.
+1615728649588	Marionette	INFO	Listening on port 42335
+1615728649668	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615728958783	geckodriver	INFO	Listening on 127.0.0.1:40337
+1615728959773	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecDGP65"
+*** You are running in headless mode.
+1615728971176	Marionette	INFO	Listening on port 36293
+1615728971385	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615729293445	geckodriver	INFO	Listening on 127.0.0.1:53097
+1615729293573	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMl1E0y"
+*** You are running in headless mode.
+1615729315073	Marionette	INFO	Listening on port 38275
+1615729315454	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615729733425	geckodriver	INFO	Listening on 127.0.0.1:43743
+1615729733544	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSL8HeB"
+*** You are running in headless mode.
+1615729757504	Marionette	INFO	Listening on port 42767
+1615729758042	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615730082439	geckodriver	INFO	Listening on 127.0.0.1:42035
+1615730083500	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyCpSon"
+*** You are running in headless mode.
+1615730100763	Marionette	INFO	Listening on port 45569
+1615730101590	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615730127627	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1615730431867	geckodriver	INFO	Listening on 127.0.0.1:48605
+1615730432918	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNmVyXw"
+*** You are running in headless mode.
+1615730452199	Marionette	INFO	Listening on port 43951
+1615730452815	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615730761317	geckodriver	INFO	Listening on 127.0.0.1:33771
+1615730761423	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile00I8bv"
+*** You are running in headless mode.
+1615730781120	Marionette	INFO	Listening on port 33183
+1615730781927	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615731095179	geckodriver	INFO	Listening on 127.0.0.1:39629
+1615731096315	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelRd0Aq"
+*** You are running in headless mode.
+1615731113941	Marionette	INFO	Listening on port 33469
+1615731114019	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615731424531	geckodriver	INFO	Listening on 127.0.0.1:49595
+1615731424599	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP1HQbN"
+*** You are running in headless mode.
+1615731447949	Marionette	INFO	Listening on port 33131
+1615731448218	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615731762428	geckodriver	INFO	Listening on 127.0.0.1:43795
+1615731762516	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGAcNPh"
+*** You are running in headless mode.
+1615731782903	Marionette	INFO	Listening on port 37343
+1615731783015	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615732095002	geckodriver	INFO	Listening on 127.0.0.1:50199
+1615732095188	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezBT41S"
+*** You are running in headless mode.
+1615732123230	Marionette	INFO	Listening on port 46635
+1615732123328	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615732435432	geckodriver	INFO	Listening on 127.0.0.1:36459
+1615732435535	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7GoaQR"
+*** You are running in headless mode.
+1615732458990	Marionette	INFO	Listening on port 34245
+1615732459956	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615732779924	geckodriver	INFO	Listening on 127.0.0.1:58833
+1615732780999	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBed6Hh"
+*** You are running in headless mode.
+1615732806098	Marionette	INFO	Listening on port 34613
+1615732806505	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615733124589	geckodriver	INFO	Listening on 127.0.0.1:46981
+1615733125660	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepSwJXz"
+*** You are running in headless mode.
+1615733139717	Marionette	INFO	Listening on port 37109
+1615733139950	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615733453369	geckodriver	INFO	Listening on 127.0.0.1:43573
+1615733454399	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemM5g3L"
+*** You are running in headless mode.
+1615733467727	Marionette	INFO	Listening on port 39215
+1615733468237	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615733781620	geckodriver	INFO	Listening on 127.0.0.1:55401
+1615733781715	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7OHVnu"
+*** You are running in headless mode.
+1615733804387	Marionette	INFO	Listening on port 34403
+1615733804627	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615734118913	geckodriver	INFO	Listening on 127.0.0.1:44413
+1615734120116	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqFyTmy"
+*** You are running in headless mode.
+1615734148428	Marionette	INFO	Listening on port 46375
+1615734148661	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615734465138	geckodriver	INFO	Listening on 127.0.0.1:52063
+1615734466181	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE6kYlN"
+*** You are running in headless mode.
+1615734487294	Marionette	INFO	Listening on port 42227
+1615734488260	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615734806382	geckodriver	INFO	Listening on 127.0.0.1:36043
+1615734807410	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6x8DWl"
+*** You are running in headless mode.
+1615734821300	Marionette	INFO	Listening on port 44359
+1615734821679	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615735132737	geckodriver	INFO	Listening on 127.0.0.1:53863
+1615735133769	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley2cmJX"
+*** You are running in headless mode.
+1615735150018	Marionette	INFO	Listening on port 38525
+1615735150044	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615735463789	geckodriver	INFO	Listening on 127.0.0.1:47419
+1615735464785	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZreXCK"
+*** You are running in headless mode.
+1615735485072	Marionette	INFO	Listening on port 33055
+1615735485327	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615735800955	geckodriver	INFO	Listening on 127.0.0.1:44451
+1615735801113	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUsFU1T"
+*** You are running in headless mode.
+1615735826595	Marionette	INFO	Listening on port 35461
+1615735826906	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615736140479	geckodriver	INFO	Listening on 127.0.0.1:60999
+1615736141518	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefPBcfF"
+*** You are running in headless mode.
+1615736174574	Marionette	INFO	Listening on port 43619
+1615736174858	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615736487807	geckodriver	INFO	Listening on 127.0.0.1:43051
+1615736488846	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewi0YNz"
+*** You are running in headless mode.
+1615736507475	Marionette	INFO	Listening on port 41739
+1615736507590	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615737449182	geckodriver	INFO	Listening on 127.0.0.1:60553
+1615737449255	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejcrQmP"
+*** You are running in headless mode.
+1615737451705	Marionette	INFO	Listening on port 42699
+1615737451778	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615737757001	geckodriver	INFO	Listening on 127.0.0.1:51531
+1615737757005	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejWogsz"
+*** You are running in headless mode.
+1615737759423	Marionette	INFO	Listening on port 34299
+1615737759446	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615738270090	geckodriver	INFO	Listening on 127.0.0.1:50887
+1615738270098	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecmdbPv"
+*** You are running in headless mode.
+1615738272284	Marionette	INFO	Listening on port 34481
+1615738272311	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615738399607	geckodriver	INFO	Listening on 127.0.0.1:43537
+1615738399614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI17w4U"
+*** You are running in headless mode.
+1615738401550	Marionette	INFO	Listening on port 36097
+1615738401622	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615739074454	geckodriver	INFO	Listening on 127.0.0.1:56803
+1615739074460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile29gshW"
+*** You are running in headless mode.
+1615739076670	Marionette	INFO	Listening on port 37345
+1615739076771	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615739807451	geckodriver	INFO	Listening on 127.0.0.1:38325
+1615739807459	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilealGf60"
+*** You are running in headless mode.
+1615739809689	Marionette	INFO	Listening on port 35251
+1615739809826	Marionette	WARN	TLS certificate errors will be ignored for this session
