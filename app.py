@@ -1,12 +1,10 @@
-import re
-
 import sys
 from PyQt5.QtCore import QTimer
 from PyQt5.QtWidgets import QWidget, QDesktopWidget, QApplication, QPushButton, QMessageBox, QLabel, QLineEdit, \
     QGridLayout
 
-from tlsBook import TlsChecker
 import validators
+from tlsBook import TlsChecker
 
 
 class TlsCheckerGui(QWidget):
