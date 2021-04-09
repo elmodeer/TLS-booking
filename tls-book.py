@@ -45,30 +45,14 @@ def is_an_appointment_free(driver):
     table = driver.find_element_by_id('timeTable')
     table_content = BeautifulSoup(table.get_attribute('innerHTML'), features="html.parser")
 
-    days = table_content.find_all("a", {"class": "appt-table-d"})
-    other_day = False
-    str_days = str(days)
+    days = table_content.find_all("a")
+    for day in days:
+        if day.has_attr('href'):
+            print('Appointment found')
+            return True
 
-    # TODO edit as the days u see now!! 
-    if '16' not in str_days or '17' not in str_days:
-        print('day')
-        other_day = True
-
-    # TODO edit as the slots u see now!!
-    appointments = table_content.find_all("a")
-    full = True
-    for appointment in appointments:
-        str_appointment = str(appointment)
-        if 'full' not in str_appointment:
-            full = False
-
-    # TODO edit!!
-    if not full or other_day or len(appointments) != 14 or len(days) != 2:
-        print('Appointment found')
-        return True
-    else:
-        print('No found')
-        return False
+    print('No appointments found')
+    return False
 
 
 def check(driver):
@@ -85,7 +69,7 @@ def check(driver):
         # send_to_me(message, title)
 
 
-def getOS():
+def get_os():
     uname = platform.uname()
     driver_name = 'geckodriver'
     if uname.system == 'Darwin':
@@ -108,7 +92,7 @@ def getOS():
 firefoxOptions = Options()
 firefoxOptions.add_argument("-headless")
 currentDirectory = os.getcwd()
-driver = webdriver.Firefox(executable_path=currentDirectory + '/drivers/' + getOS(), options=firefoxOptions)
+driver = webdriver.Firefox(executable_path=currentDirectory + '/drivers/' + get_os(), options=firefoxOptions)
 check(driver)
 while 1:
     print(datetime.datetime.now())
