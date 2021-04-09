@@ -6,8 +6,7 @@ from PyQt5.QtWidgets import QWidget, QDesktopWidget, QApplication, QPushButton, 
     QGridLayout
 
 from tlsBook import TlsChecker
-
-EMAIL_REGEX = re.compile(r"[^@]+@[^@]+\.[^@]+")
+import validators
 
 
 class TlsCheckerGui(QWidget):
@@ -86,17 +85,9 @@ class TlsCheckerGui(QWidget):
         password = self.passwordEdit.text()
         target_email = self.targetEmailEdit.text()
 
-        # Replace commas and semi-columns by spaces then split the emails
-        email_check = target_email.replace(',', ' ').replace(';', ' ').split(' ')
-        email_check.append(email)
+        email_check = validators.concat_emails(email, target_email)
 
-        error = False
-        for checkEmail in email_check:
-            if not EMAIL_REGEX.match(checkEmail):
-                error = True
-                break
-
-        if error or not target_email:
+        if not validators.validate_emails(email_check) or not target_email:
             msg = QMessageBox()
             msg.setText("Please enter a valid email")
             msg.setWindowTitle("Error")
@@ -104,7 +95,7 @@ class TlsCheckerGui(QWidget):
             msg.exec_()
             return False
 
-        if password == '':
+        if not validators.validate_required(password):
             msg = QMessageBox()
             msg.setText("Password field is required!")
             msg.setWindowTitle("Error")
