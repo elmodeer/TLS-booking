@@ -3,13 +3,13 @@ import re
 EMAIL_REGEX = re.compile(r"[^@]+@[^@]+\.[^@]+")
 
 
-def validate_emails(emails):
-    error = False
+def is_valid(emails):
+    valid = True
     for checkEmail in emails:
         if not EMAIL_REGEX.match(checkEmail):
-            error = True
+            valid = False
             break
-    return error
+    return valid
 
 
 def validate_required(string):
