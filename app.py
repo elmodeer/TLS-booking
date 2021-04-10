@@ -1,7 +1,8 @@
 import sys
+
 from PyQt5.QtCore import QTimer
-from PyQt5.QtWidgets import QWidget, QDesktopWidget, QApplication, QPushButton, QMessageBox, QLabel, QLineEdit, \
-    QGridLayout
+from PyQt5.QtWidgets import (QApplication, QDesktopWidget, QGridLayout, QLabel,
+                             QLineEdit, QMessageBox, QPushButton, QWidget)
 
 import validators
 from tlsBook import TlsChecker
@@ -44,11 +45,14 @@ class TlsCheckerGui(QWidget):
 
         grid.addWidget(password, 3, 0)
         grid.addWidget(self.passwordEdit, 3, 1, 1, 9)
-        grid.addWidget(QLabel('Please the password your used to register your TLS application (we do not record your password).'), 4, 1)
+        grid.addWidget(
+            QLabel('Please the password your used to register your TLS application (we do not record your password).'),
+            4, 1)
 
         grid.addWidget(target_email, 5, 0)
         grid.addWidget(self.targetEmailEdit, 5, 1, 1, 9)
-        grid.addWidget(QLabel('Please list of emails that will receive the notification. Separate the emails with a \',\' character.'), 6,
+        grid.addWidget(QLabel(
+            'Please list of emails that will receive the notification. Separate the emails with a \',\' character.'), 6,
                        1)
 
         grid.setRowStretch(7, 4)
@@ -85,7 +89,7 @@ class TlsCheckerGui(QWidget):
 
         email_check = validators.concat_emails(email, target_email)
 
-        if not validators.validate_emails(email_check) or not target_email:
+        if not validators.is_valid(email_check) or not target_email:
             msg = QMessageBox()
             msg.setText("Please enter a valid email")
             msg.setWindowTitle("Error")
