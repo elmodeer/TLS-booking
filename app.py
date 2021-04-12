@@ -85,7 +85,7 @@ class TlsCheckerGui(QWidget):
 
         email_check = validators.concat_emails(email, target_email)
 
-        if not validators.validate_emails(email_check) or not target_email:
+        if not validators.is_valid(email_check) or not target_email:
             msg = QMessageBox()
             msg.setText("Please enter a valid email")
             msg.setWindowTitle("Error")

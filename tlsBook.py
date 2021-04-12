@@ -64,12 +64,13 @@ class TlsChecker:
         print('No appointments found')
         return False
 
-    def check(self):
+    def check(self, loggedIn):
         try:
-            if self.login() and self.is_an_appointment_free():
+            if loggedIn and self.is_an_appointment_free():
                 title = 'TLS Appointment is free'
                 message = 'Luke, Iam your father ... U have to go there now => https://de-legalization.tlscontact.com/eg/CAI/login.php'
                 send_to_me(message, title, self.target_emails)
+                return True
 
         except Exception as e:
             message = str(e)

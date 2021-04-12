@@ -31,13 +31,14 @@ def main():
     
     appointmentFound = False
     mins = 5
+    print('Starting TLS checking')
 
     while not appointmentFound:
-        print('Starting TLS checking')
-        if checker.login(): 
-            appointmentFound = checker.check()
+        loggedIn = checker.login() 
+        if loggedIn: 
+            appointmentFound = checker.check(loggedIn)
             print('------------- Will try again in ' + str(mins) + ' minutes ----------------------------')
-            sleep(60 * min)  # minutes
+            sleep(60 * mins)  # minutes
 
         else: 
             print("Someting does not seem right with your credentials, Try agin please")
