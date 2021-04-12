@@ -4,6 +4,7 @@ import signal
 
 import atexit
 from time import sleep
+import datetime
 
 import validators
 from tlsBook import TlsChecker
@@ -35,18 +36,22 @@ def main():
 
     appointment_found = False
     minutes = 2
+    failed_logins = 0
     print('Starting TLS checking')
 
-    while not appointment_found:
+    while not appointment_found and failed_logins <= 3:
+        print(datetime.datetime.now())
         loggedIn = checker.login()
         if loggedIn:
+            failed_logins = 0
             appointment_found = checker.check(loggedIn)
             print('------------- Will try again in ' + str(minutes) + ' minutes ----------------------------')
             sleep(60 * minutes)  # 5 minutes
 
         else:
-            print("Something does not seem right with your credentials, Try again please")
-            break
+            failed_logins += 1 
+            print("Something does not seem right with your credentials, I will try again, plz wait => try: " + str(failed_logins))
+            # break
 
 
 def handle_exit():
