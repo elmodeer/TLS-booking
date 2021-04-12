@@ -34,12 +34,13 @@ def main():
     checker = TlsChecker(args.email, args.password, emails)
 
     appointment_found = False
-    minutes = 5
+    minutes = 2
     print('Starting TLS checking')
 
     while not appointment_found:
-        if checker.login():
-            appointment_found = checker.check()
+        loggedIn = checker.login()
+        if loggedIn:
+            appointment_found = checker.check(loggedIn)
             print('------------- Will try again in ' + str(minutes) + ' minutes ----------------------------')
             sleep(60 * minutes)  # 5 minutes
 
