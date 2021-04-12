@@ -1,3 +1,6 @@
+import signal
+
+import atexit
 import sys
 
 from PyQt5.QtCore import QTimer
@@ -128,8 +131,14 @@ class TlsCheckerGui(QWidget):
     def recurring_timer(self):
         self.checker.check()
 
+    def handle_exit(self):
+        self.checker.terminate()
+
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
     ex = TlsCheckerGui()
+    atexit.register(ex.handle_exit)
+    signal.signal(signal.SIGTERM, ex.handle_exit)
+    signal.signal(signal.SIGINT, ex.handle_exit)
     sys.exit(app.exec_())
