@@ -37,7 +37,7 @@ def main():
         if checker.login(): 
             appointmentFound = checker.check()
             print('------------- Will try again in ' + str(mins) + ' minutes ----------------------------')
-            sleep(60 * min)  # minutes
+            sleep(60 * mins)  # minutes
 
         else: 
             print("Someting does not seem right with your credentials, Try agin please")
