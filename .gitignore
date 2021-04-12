@@ -1,4 +1,5 @@
-/__pycashe__
+/__pycache__
 /driver
 /.tls
 geckodriver.log
+venv
