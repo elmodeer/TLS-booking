@@ -1,7 +1,11 @@
+import signal
+
+import atexit
 import sys
+
 from PyQt5.QtCore import QTimer
-from PyQt5.QtWidgets import QWidget, QDesktopWidget, QApplication, QPushButton, QMessageBox, QLabel, QLineEdit, \
-    QGridLayout
+from PyQt5.QtWidgets import (QApplication, QDesktopWidget, QGridLayout, QLabel,
+                             QLineEdit, QMessageBox, QPushButton, QWidget)
 
 import validators
 from tlsBook import TlsChecker
@@ -44,11 +48,14 @@ class TlsCheckerGui(QWidget):
 
         grid.addWidget(password, 3, 0)
         grid.addWidget(self.passwordEdit, 3, 1, 1, 9)
-        grid.addWidget(QLabel('Please the password your used to register your TLS application (we do not record your password).'), 4, 1)
+        grid.addWidget(
+            QLabel('Please the password your used to register your TLS application (we do not record your password).'),
+            4, 1)
 
         grid.addWidget(target_email, 5, 0)
         grid.addWidget(self.targetEmailEdit, 5, 1, 1, 9)
-        grid.addWidget(QLabel('Please list of emails that will receive the notification. Separate the emails with a \',\' character.'), 6,
+        grid.addWidget(QLabel(
+            'Please list of emails that will receive the notification. Separate the emails with a \',\' character.'), 6,
                        1)
 
         grid.setRowStretch(7, 4)
@@ -124,8 +131,14 @@ class TlsCheckerGui(QWidget):
     def recurring_timer(self):
         self.checker.check()
 
+    def handle_exit(self):
+        self.checker.terminate()
+
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
     ex = TlsCheckerGui()
+    atexit.register(ex.handle_exit)
+    signal.signal(signal.SIGTERM, ex.handle_exit)
+    signal.signal(signal.SIGINT, ex.handle_exit)
     sys.exit(app.exec_())

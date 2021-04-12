@@ -95,3 +95,6 @@ class TlsChecker:
                 driver_name += '32.exe'
 
         return driver_name
+
+    def terminate(self):
+        self.driver.quit()
