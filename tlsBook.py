@@ -17,10 +17,15 @@ class TlsChecker:
         self.target_emails = target_emails
 
     def initiate_driver(self):
+
+        # disabling cookies
+        fp = webdriver.FirefoxProfile()
+        fp.set_preference("network.cookie.cookieBehavior", 2)
+
         firefox_options = Options()
         firefox_options.add_argument("-headless")
         current_directory = os.getcwd()
-        return webdriver.Firefox(executable_path=current_directory + '/drivers/' + self.get_os(), options=firefox_options)
+        return webdriver.Firefox(executable_path=current_directory + '/drivers/' + self.get_os(), options=firefox_options, firefox_profile=fp)
 
     def login(self):
         if 'myapp' in self.driver.current_url:

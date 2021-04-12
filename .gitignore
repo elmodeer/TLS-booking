@@ -1,5 +1,6 @@
-/__pycache__
 /driver
 /.tls
 geckodriver.log
 venv
+/__pycache__
+__pycache__/sendEmail.cpython-36.pyc
